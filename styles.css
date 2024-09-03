@@ -1,7 +1,7 @@
 
 body {
     margin: 0; 
-    background-color:white; 
+    background-color:#fffdf6; 
 
     font-family: "Poppins", sans-serif;
     text-align: center;
@@ -14,7 +14,7 @@ body {
 
 .flex-header {
 
-    background-color: #608162; 
+    background-color: #103712; 
 
     color: #d6d9ac;
 
@@ -37,12 +37,12 @@ body {
 
 .flex-content {
     /* display: flex; */
-    background-color: #608162;
+    background-color: #103712;
     margin: 10px;
 
     border-style: solid;
     border-width: 5px;
-    border-color: #608162;
+    border-color: #103712;
     border-radius: 15px;
 
 
@@ -57,7 +57,7 @@ body {
 
     justify-content: center;
 
-    background-color: #608162; 
+    background-color: #103712; 
 
     color: white;
     /* font-weight: 800 !important; */
