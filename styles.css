@@ -17,7 +17,7 @@ body {
     background-color: #608162; 
 
     color: #d6d9ac;
-    font-weight: 800 !important;
+
 
 
 }
@@ -48,7 +48,7 @@ body {
 
     text-align: center;
     color: #d6d9ac;
-    padding: 10px;
+    /* padding: 10px; */
 
 }
 .flex-footer {
