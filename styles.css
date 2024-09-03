@@ -1,0 +1,61 @@
+.background {
+    background-color:white; 
+    /* background-image: linear-gradient(to right, #164A41 , #4D774E); */
+}
+
+
+.flex-header {
+    display: flex;
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: #608162;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.flex-body {
+    /* display: flex; */
+    border-style: solid;
+    border-width: 5px;
+    border-color: blueviolet;
+    border-radius: 10px;
+    max-width: 1000px;
+    margin: auto;
+    font-family: sans-serif;
+}
+.flex-content {
+    /* display: flex; */
+    background-color: #608162;
+
+    border-style: solid;
+    border-width: 5px;
+    border-color: green;
+    border-radius: 10px;
+    justify-content: center;
+    margin: 10px;
+
+    text-align: center;
+    color: #d6d9ac;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+.flex-footer {
+    display: flex;
+    /* border-style: solid;
+    border-width: 5px;
+    border-color: red; */
+    justify-content: center;
+}
+.flex-item {
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+}
