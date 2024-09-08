@@ -13,19 +13,11 @@ body {
 
     font-family: "Poppins", sans-serif;
     text-align: center;
-  }
-
-  /* h1 {
-    background-color: #608162; 
-    margin: 0; 
-  } */
+}
 
 .flex-header {
-
     background-color: #EFEFEF; 
-
     color: #081B21;
-
 }
 
 .flex-body {
@@ -33,12 +25,7 @@ body {
     justify-content: center;
     flex-direction: column;
     max-width: 1000px;
-    margin: auto; /*override body margin*/
-/* 
-    border-style: solid;
-    border-width: 5px;
-    border-color: blueviolet;
-    border-radius: 10px; */
+    margin: auto;
 }
 
 .flex-content {
@@ -53,12 +40,12 @@ body {
     border-color: #EFEFEF;
     border-radius: 15px;
 
-
     text-align: center;
     color: #242424;
-    /* padding: 10px; */
+
 
 }
+
 .flex-footer {
     margin-top: 20px;
     margin-bottom: 0;
@@ -66,18 +53,6 @@ body {
     justify-content: center;
 
     background-color: #EFEFEF; 
-
     color: #081B21;
-    /* font-weight: 800 !important; */
     padding: 15px;
 }
-.flex-item {
-    border-style: solid;
-    border-width: 2px;
-    border-color: red;
-}
-
-/* 
-title text color: 
-body text color: #bedbbf
-*/
